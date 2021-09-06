@@ -7,7 +7,7 @@
 * curl
   * sudo apt-get update
   * sudo apt-get install curl
-  * ! err-> sudo reboot
+  * ! err-> sudo reboot -> try again
   * curl --version
   
 * docker
