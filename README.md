@@ -49,7 +49,7 @@
  * curl -sSL http://bit.ly/2ysbOFE | bash -s -- 1.4.12 1.4.9 0.4.22
 
 **set-up**
-
+* clone code
 * network
  * spec : 3 org(each have 1 peer) 1 ca 1 order
  * ./teardown.sh
