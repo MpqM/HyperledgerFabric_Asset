@@ -17,9 +17,11 @@
   * sudo apt-get install software-properties-common
   * sudo usermod -aG docker $USER
   * echo $USER
+  * reboot
+
 * node.js
   * sudo apt-get install build-essential libssl-dev -y
-  * curl -OL https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install | bash
+  * curl -OL https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
   * bash install.sh
   * source .profile
   * nvm install v8
@@ -34,6 +36,7 @@
   * add two lines in last
     * export GOPATH=~/go
     * export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin:~/fabric-samples/bin
+  * source .profile
   * echo $PATH
   * go version
   
@@ -46,6 +49,12 @@
  * curl -sSL http://bit.ly/2ysbOFE | bash -s -- 1.4.12 1.4.9 0.4.22
 
 **set-up**
+
+* network
+ * spec : 3 org(each have 1 peer) 1 ca 1 order
+ * ./teardown.sh
+ * ./generate.sh
+ * ./start.sh 
 
 
 
