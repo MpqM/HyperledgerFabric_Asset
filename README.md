@@ -7,17 +7,17 @@
 * curl
   * sudo apt-get update
   * sudo apt-get install curl
-  * ! err-> sudo reboot -> try again
+  * if err-> sudo reboot -> try again
   * curl --version
   
 * docker
   * sudo apt install docker.io docker-compose -y
-  * docker version
-  * docker-compose version
   * sudo apt-get install software-properties-common
   * sudo usermod -aG docker $USER
   * echo $USER
   * reboot
+  * docker version
+  * docker-compose version
 
 * node.js
   * sudo apt-get install build-essential libssl-dev -y
@@ -50,11 +50,17 @@
 
 **set-up**
 * clone code
+
 * network
  * spec : 3 org(each have 1 peer) 1 ca 1 order
+ * cd network
  * ./teardown.sh
  * ./generate.sh
  * ./start.sh 
+
+* chaincode install, instsantiate, test
+ * go build
+ * if err -> go get -u
 
 
 
