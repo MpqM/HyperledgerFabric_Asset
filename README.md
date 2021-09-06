@@ -18,7 +18,7 @@
   * sudo usermod -aG docker $USER
   * echo $USER
 * node.js
-  *sudo apt-get install build-essential libssl-dev -y
+  * sudo apt-get install build-essential libssl-dev -y
   * curl -OL https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install | bash
   * bash install.sh
   * source .profile
