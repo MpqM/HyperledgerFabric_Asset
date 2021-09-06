@@ -40,7 +40,12 @@
 * python, git, vsc
   * sudo apt install -y python
   * sudo apt install -y git
-  * install vsc
+  * install vsc at homepage
+
+* hyperledgerfabric
+ * curl -sSL http://bit.ly/2ysbOFE | bash -s -- 1.4.12 1.4.9 0.4.22
+
+**set-up**
 
 
 
