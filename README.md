@@ -43,10 +43,10 @@
 * python, git, vsc
   * sudo apt install -y python
   * sudo apt install -y git
-  * install vsc at homepage
+  * install vsc, go, docker extension
 
 * hyperledgerfabric
- * curl -sSL http://bit.ly/2ysbOFE | bash -s -- 1.4.12 1.4.9 0.4.22
+  * curl -sSL http://bit.ly/2ysbOFE | bash -s -- 1.4.12 1.4.9 0.4.22
 
 **set-up**
 * clone code
@@ -59,13 +59,19 @@
  * ./start.sh 
 
 * chaincode install, instsantiate, test
- * go build
- * if err -> go get -u
+ * go build 
+ * if err try underlines
+ * go get -u "github.com/hyperledger/fabric/chaincode/shim" 
+ * cd $GOPATH cd src/github.com/hyperledger/fabric
+ * git checkout tags/v1.4.10
+ * ./cc.sh
+ * ./testasset.sh
 
-
-
-
-
-
-
-
+* application
+ * cd application
+ * npm install
+ * node enrollAdmin.js
+ * node registerUser.js
+ * node server.js
+ * connect to localhost:8080
+ * check asset localhost:5984/_utils
