@@ -31,6 +31,21 @@
   * tar -xvf go1.12.17.linux-amd64.tar.gz
   * sudo mv go /usr/local
   * gedit .profile
-    * add twolines in last
-               * 
+  * add two lines in last
+    * export GOPATH=~/go
+    * export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin:~/fabric-samples/bin
+  * echo $PATH
+  * go version
   
+* python, git, vsc
+  * sudo apt install -y python
+  * sudo apt install -y git
+  * install vsc
+
+
+
+
+
+
+
+
