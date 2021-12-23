@@ -75,3 +75,5 @@
  * node server.js
  * connect to localhost:8080
  * check asset localhost:5984/_utils
+
+**view**
