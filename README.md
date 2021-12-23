@@ -48,7 +48,7 @@
 * hyperledgerfabric
   * curl -sSL http://bit.ly/2ysbOFE | bash -s -- 1.4.12 1.4.9 0.4.22
 
-**set-up**
+**Set-Up**
 * clone code
 
 * network
