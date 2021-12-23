@@ -1,4 +1,4 @@
-**development enviorment setting**
+**Development Enviorment Setting**
 
 * basic
   * ubuntu 18.04.5
@@ -76,4 +76,4 @@
  * connect to localhost:8080
  * check asset localhost:5984/_utils
 
-**running screen**
+**Running Screen**
