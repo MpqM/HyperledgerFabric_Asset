@@ -83,7 +83,7 @@
 * * *
 <!-- 5 -->
 #### ⚫ Usage
-
+![image](https://github.com/MpqM/HyperledgerFabric_v1.x-SimpleAsset/assets/79093184/9bf5a1db-9a72-4054-9b72-1f592cc222b4)
 * * *
 <!-- 6 -->
 #### ⚫ Roadmap & Realization
