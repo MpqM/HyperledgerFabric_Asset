@@ -1,9 +1,8 @@
 # HyperledgerFabric_v1.x-SimpleAsset
 <!-- 1 -->
 #### ⚫ About Project
-##### build HyperLedgerFabric application 
-##### with Node, Express, Javascript, HTML
-##### Learn how to build a Basic full-stack HyperlegderFabric app through clonecoding with React, Node, Express, MongoDB Atlas, and TypeScript
+##### Build HyperLedgerFabric Web application  with Node, Express, Javascript, HTML
+##### Build RESTAPI and test the chain code functionality with the CRUD function chain code for simple structured asset data
 * * *
 <!-- 2 -->
 #### ⚫ Built with
