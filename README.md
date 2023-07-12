@@ -77,8 +77,8 @@
 * * *
 <!-- 4 -->
 #### ⚫ description
-* ##### I studied by adding annotations and testing api with postman, not just copying and pasting code.
-* ##### I practiced the composition of the readme file and I think it was organized well as a result
+* ##### Create go language-based chain code with CRUD function for simple structured data using HyperLedgerFabric architecture
+* ##### Configure restapi and client web pages based on node.js express module for testing chain code
 
 * * *
 <!-- 5 -->
@@ -87,7 +87,8 @@
 * * *
 <!-- 6 -->
 #### ⚫ Roadmap & Realization
-
+* ##### Hyperledger fabric v1.x is too old to configure at this time, so v2.x is recommended
+* ##### I'm going to study Hyperledger Fabric v2.x
 * * *
 <!-- 7 -->
 #### ⚫ Writer
@@ -104,7 +105,8 @@
 * * *
 <!-- 9 -->
 #### ⚫ Acknowledgments & License
-* 
+* ##### IBM Foundation
+* [Apache 2.0 라이센스](https://www.apache.org/licenses/LICENSE-2.0)를 참조하십시오.
 * * * *
 
 
