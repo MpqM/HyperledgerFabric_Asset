@@ -1,3 +1,58 @@
+# MERN_Note
+<!-- 1 -->
+#### ⚫ About Project
+##### Note Service + Authenticate User RESTAPI
+##### Learn how to build a Basic full-stack MERN app through clonecoding with React, Node, Express, MongoDB Atlas, and TypeScript
+* * *
+<!-- 2 -->
+#### ⚫ Built with
+<img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt="typescript" src ="https://img.shields.io/badge/hyperledgerfabric-3178C6.svg?&style=for-the-badge&logo=hyperledgerfabric&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/> <img alt="express" src ="https://img.shields.io/badge/express-339933.svg?&style=for-the-badge&logo=express&logoColor=white"/> <img alt="nodedotjs" src ="https://img.shields.io/badge/nodejs-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img alt="mongodb" src ="https://img.shields.io/badge/mongodb-339933.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+* * *
+<!-- 3 -->
+#### ⚫ Getting Strated
+* ##### Prerequisites
+   * ##### npm, node, MongoDB Atlas account
+* ##### installation
+   * ##### set up MongoDB Atlas and connect
+   * ##### Change the MONGO_CONNECTION_STRING value in the server/.env file with yours
+   * ##### git clone https://github.com/MpqM/MERN_Note.git
+   * ##### cd server -> npm install -> npm start
+   * ##### cd client -> npm install -> npm start
+* * *
+<!-- 4 -->
+#### ⚫ description
+* ##### I studied by adding annotations and testing api with postman, not just copying and pasting code.
+* ##### I practiced the composition of the readme file and I think it was organized well as a result
+
+* * *
+<!-- 5 -->
+#### ⚫ Usage
+
+* * *
+<!-- 6 -->
+#### ⚫ Roadmap & Realization
+
+* * *
+<!-- 7 -->
+#### ⚫ Writer
+* ##### okqkrwhdtjd@gmail.com
+* ##### <a href = "https://github.com/MpqM"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a> <a href = "https://MpqM.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
+* * *
+<!-- 8 -->
+#### ⚫ Contributing
+* ##### Fork the Project https://github.com/MpqM/HyperledgerFabric_v1.x-SimpleAsset
+* ##### Create your Feature Branch (git checkout -b feature/AmazingFeature)
+* ##### Commit your Changes (git commit -m 'Add some AmazingFeature')
+* ##### Push to the Branch (git push origin feature/AmazingFeature)
+* ##### Open a Pull Request
+* * *
+<!-- 9 -->
+#### ⚫ Acknowledgments & License
+* 
+* * * *
+
+
+
 **Development Enviorment Setting**
 
 * basic
