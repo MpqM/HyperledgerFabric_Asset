@@ -1,15 +1,15 @@
 # HyperledgerFabric_v1.x-SimpleAsset
 <!-- 1 -->
-#### ⚫ About Project
+#### ⚪ About Project
 ##### Build HyperLedgerFabric Web application  with Node, Express, Javascript, HTML
 ##### Build RESTAPI and test the chain code functionality with the CRUD function chain code for simple structured asset data
 * * *
 <!-- 2 -->
-#### ⚫ Built with
+#### ⚪ Built with
 <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt="typescript" src ="https://img.shields.io/badge/hyperledger-3178C6.svg?&style=for-the-badge&logo=hyperledger&logoColor=white"/> <img alt="express" src ="https://img.shields.io/badge/express-339933.svg?&style=for-the-badge&logo=express&logoColor=white"/> <img alt="nodedotjs" src ="https://img.shields.io/badge/nodejs-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
 * * *
 <!-- 3 -->
-#### ⚫ Getting Strated
+#### ⚪ Getting Strated
 * ##### Prerequisites & Installation
    * ##### ubuntu 18.04.5, virtualmachine
    * ##### curl
@@ -76,27 +76,27 @@
       * ##### check asset localhost:5984/_utils
 * * *
 <!-- 4 -->
-#### ⚫ description
+#### ⚪ description
 * ##### Create go language-based chain code with CRUD function for simple structured data using HyperLedgerFabric architecture
 * ##### Configure restapi and client web pages based on node.js express module for testing chain code
 
 * * *
 <!-- 5 -->
-#### ⚫ Usage
+#### ⚪ Usage
 ![image](https://github.com/MpqM/HyperledgerFabric_v1.x-SimpleAsset/assets/79093184/9bf5a1db-9a72-4054-9b72-1f592cc222b4)
 * * *
 <!-- 6 -->
-#### ⚫ Roadmap & Realization
+#### ⚪ Roadmap & Realization
 * ##### Hyperledger fabric v1.x is too old to configure at this time, so v2.x is recommended
 * ##### I'm going to study Hyperledger Fabric v2.x
 * * *
 <!-- 7 -->
-#### ⚫ Writer
+#### ⚪ Writer
 * ##### okqkrwhdtjd@gmail.com
 * ##### <a href = "https://github.com/MpqM"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a> <a href = "https://MpqM.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
 * * *
 <!-- 8 -->
-#### ⚫ Contributing
+#### ⚪ Contributing
 * ##### Fork the Project https://github.com/MpqM/HyperledgerFabric_v1.x-SimpleAsset
 * ##### Create your Feature Branch (git checkout -b feature/AmazingFeature)
 * ##### Commit your Changes (git commit -m 'Add some AmazingFeature')
