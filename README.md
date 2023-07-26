@@ -1,9 +1,8 @@
 # HyperledgerFabric_v1.x-SimpleAsset
-<!-- 1 -->
 #### ⚪ About Project
 * ##### 단순한 자산 데이터에 대한 CRUD 기능을 가진 체인코드를 NodeJs Express 모듈 기반 RESTAPI를 통해 체인 코드를 테스트하는 웹 어플리케이션
 * ##### Node, Express, Javascript, HTML을 사용해 HyperLedgerFabric 웹 응용 프로그램 구축
-
+* * *
 #### ⚪ Usage
 ![image](https://github.com/MpqM/HyperledgerFabric_v1.x-SimpleAsset/assets/79093184/9bf5a1db-9a72-4054-9b72-1f592cc222b4)
 <!-- 2 -->
