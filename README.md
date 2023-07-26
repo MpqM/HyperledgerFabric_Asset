@@ -19,7 +19,7 @@
 #### ⚪ Getting Strated
 * ##### Prerequisites: Ubuntu 18.04.5, virtualmachine
 * ##### Installation
-``` bash
+```bash
 # curl
 sudo apt-get update
 sudo apt-get install curl
@@ -59,9 +59,8 @@ install vsc, go, docker extension
 # hyperledgerfabric
 curl -sSL http://bit.ly/2ysbOFE | bash -s -- 1.4.12 1.4.9 0.4.22
 ```
-
 * ##### Execution
-``` bash
+```bash
 clone repo
 # network
 spec : 3 org(each have 1 peer) 1 ca(artificial) 1 order
