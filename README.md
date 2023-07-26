@@ -24,7 +24,6 @@
   sudo apt-get update
   sudo apt-get install curl // if err-> sudo reboot -> try again
   curl --version
-  
   # docker
   sudo apt install docker.io docker-compose -y
   sudo apt-get install software-properties-common
@@ -33,7 +32,6 @@
   reboot
   docker version
   docker-compose version
-  
   # NodeJs
   sudo apt-get install build-essential libssl-dev -y
   curl -OL https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
@@ -42,7 +40,6 @@
   nvm install v8
   node -v
   npm -v
-
   # go
   curl -OL https://golang.org/dl/go1.12.17.linux-amd64.tar.gz
   tar -xvf go1.12.17.linux-amd64.tar.gz
@@ -55,12 +52,10 @@
   source .profile
   echo $PATH
   go version
-  
   # python, git, vsc
   sudo apt install -y python
   sudo apt install -y git
   install vsc, go, docker extension
-
   # hyperledgerfabric
   curl -sSL http://bit.ly/2ysbOFE | bash -s -- 1.4.12 1.4.9 0.4.22
   ```
