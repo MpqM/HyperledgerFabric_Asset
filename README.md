@@ -22,7 +22,8 @@
   ```bash
   # curl
   sudo apt-get update
-  sudo apt-get install curl // if err-> sudo reboot -> try again
+  sudo apt-get install curl
+  if err-> sudo reboot -> try again
   curl --version
   # docker
   sudo apt install docker.io docker-compose -y
