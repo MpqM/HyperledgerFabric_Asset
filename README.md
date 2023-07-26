@@ -13,6 +13,7 @@
 <img alt="express" src ="https://img.shields.io/badge/express-339933.svg?&style=for-the-badge&logo=express&logoColor=white"/> <img alt="nodedotjs" src ="https://img.shields.io/badge/nodejs-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
 * ##### Private Blockchain
 <img alt="typescript" src ="https://img.shields.io/badge/hyperledger-3178C6.svg?&style=for-the-badge&logo=hyperledger&logoColor=white"/>
+
 * * *
 #### ⚪ Getting Strated
 * ##### Prerequisites: Ubuntu 18.04.5, virtualmachine
@@ -91,8 +92,8 @@ check asset localhost:5984/_utils
 * ##### NodeJs의 express모듈을 통해 RestAPI를 구축하고 HTML을 통해 홈페이지를 만들어 CRUD 기능 테스트 수행
 * * *
 #### ⚪ Roadmap & Realization & Study
-* ##### Hyperledger fabric v1.x is too old to configure at this time, so v2.x is recommended
-* ##### I'm going to study Hyperledger Fabric v2.x
+* ##### 하이퍼레저 패브릭 버전1.x는 현재 오래되서 v2.x로 업데이트 추천
+* ##### 하이퍼레저 패브릭 v2.x 공부할예정
 * * *
 #### ⚪ Writer
 * ##### okqkrwhdtjd@gmail.com
