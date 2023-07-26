@@ -63,7 +63,7 @@ curl -sSL http://bit.ly/2ysbOFE | bash -s -- 1.4.12 1.4.9 0.4.22
 
 
 
-##### Execution
+* ##### Execution
 ```bash
 clone repo
 # network
