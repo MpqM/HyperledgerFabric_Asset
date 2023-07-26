@@ -88,7 +88,7 @@ connect to localhost:8080
 check asset localhost:5984/_utils
 ```
 * * *
-#### ⚪ description
+#### ⚪ Description
 * ##### 하이퍼레저 패브릭 네트워크 구조를 로컬호스트에서 구축
 * ##### GO언어 기반 CRUD기능을 가진 체인코드를 작성
 * ##### NodeJs의 express모듈을 통해 RestAPI를 구축하고 HTML을 통해 홈페이지를 만들어 CRUD 기능 테스트 수행
