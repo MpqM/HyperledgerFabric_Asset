@@ -17,9 +17,8 @@
 * * *
 <!-- 3 -->
 #### ⚪ Getting Strated
-##### Prerequisites: Ubuntu 18.04.5, virtualmachine
-##### Installation
-
+* ##### Prerequisites: Ubuntu 18.04.5, virtualmachine
+* ##### Installation
 ```bash
 # curl
 sudo apt-get update
