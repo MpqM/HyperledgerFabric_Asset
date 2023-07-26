@@ -1,9 +1,11 @@
 # HyperledgerFabric_v1.x-SimpleAsset
 <!-- 1 -->
 #### ⚪ About Project
-##### Build HyperLedgerFabric Web application  with Node, Express, Javascript, HTML
-##### Build RESTAPI and test the chain code functionality with the CRUD function chain code for simple structured asset data
+##### 단순한 자산 데이터에 대한 CRUD 기능을 가진 체인코드를 NodeJs Express 모듈 기반 RESTAPI를 통해 체인 코드를 테스트하는 웹 어플리케이션
+##### Node, Express, Javascript, HTML을 사용해 HyperLedgerFabric 웹 응용 프로그램 구축
 * * *
+#### ⚪ Usage
+![image](https://github.com/MpqM/HyperledgerFabric_v1.x-SimpleAsset/assets/79093184/9bf5a1db-9a72-4054-9b72-1f592cc222b4)
 <!-- 2 -->
 #### ⚪ Built with
 <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt="typescript" src ="https://img.shields.io/badge/hyperledger-3178C6.svg?&style=for-the-badge&logo=hyperledger&logoColor=white"/> <img alt="express" src ="https://img.shields.io/badge/express-339933.svg?&style=for-the-badge&logo=express&logoColor=white"/> <img alt="nodedotjs" src ="https://img.shields.io/badge/nodejs-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
@@ -82,8 +84,7 @@
 
 * * *
 <!-- 5 -->
-#### ⚪ Usage
-![image](https://github.com/MpqM/HyperledgerFabric_v1.x-SimpleAsset/assets/79093184/9bf5a1db-9a72-4054-9b72-1f592cc222b4)
+
 * * *
 <!-- 6 -->
 #### ⚪ Roadmap & Realization
