@@ -13,10 +13,7 @@
 <img alt="express" src ="https://img.shields.io/badge/express-339933.svg?&style=for-the-badge&logo=express&logoColor=white"/> <img alt="nodedotjs" src ="https://img.shields.io/badge/nodejs-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
 * ##### Private Blockchain
 <img alt="typescript" src ="https://img.shields.io/badge/hyperledger-3178C6.svg?&style=for-the-badge&logo=hyperledger&logoColor=white"/>
-
 * * *
-
-
 #### ⚪ Getting Strated
 * ##### Prerequisites: Ubuntu 18.04.5, virtualmachine
 * ##### Installation
