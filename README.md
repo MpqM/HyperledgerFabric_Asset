@@ -17,9 +17,9 @@
 * * *
 <!-- 3 -->
 #### ⚪ Getting Strated
-* ##### Prerequisites: Ubuntu 18.04.5, virtualmachine
-* ##### Installation
-* ##### Execution
+##### Prerequisites: Ubuntu 18.04.5, virtualmachine
+##### Installation
+
 ```bash
 # curl
 sudo apt-get update
@@ -61,6 +61,9 @@ install vsc, go, docker extension
 curl -sSL http://bit.ly/2ysbOFE | bash -s -- 1.4.12 1.4.9 0.4.22
 ```
 
+
+
+##### Execution
 ```bash
 clone repo
 # network
@@ -87,6 +90,8 @@ node server.js
 connect to localhost:8080
 check asset localhost:5984/_utils
 ```
+
+
 * * *
 <!-- 4 -->
 #### ⚪ description
