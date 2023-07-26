@@ -19,7 +19,7 @@
 #### ⚪ Getting Strated
 * ##### Prerequisites: Ubuntu 18.04.5, virtualmachine
 * ##### Installation
-```bash
+``` bash
 # curl
 sudo apt-get update
 sudo apt-get install curl
