@@ -1,4 +1,4 @@
-# HyperledgerFabric_v1.x-SimpleAsset
+# HyperledgerFabric-SimpleAsset
 #### ⚪ About Project
 * ##### Node, Express, Javascript, HTML을 사용해 HyperLedgerFabric 웹 응용 프로그램 구축
 * ##### 단순한 자산 데이터에 대한 CRUD 기능을 가진 체인코드를 NodeJs Express 모듈 기반 RESTAPI를 통해 테스트
