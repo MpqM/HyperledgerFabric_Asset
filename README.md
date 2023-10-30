@@ -1,4 +1,4 @@
-# HyperledgerFabric-SimpleAsset
+# SimpleAsset
 #### ⚪ About Project
 * NodeJS express, Javascript, HTML을 사용해 CRUD기능을 가진 HyperLedgerFabric DApp 구축
 * 단순한 asset 데이터에 대한 CRUD 기능을 가진 체인코드를 NodeJS express 기반 RESTAPI를 통해 테스트
