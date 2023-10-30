@@ -20,7 +20,7 @@
 
 - - -
 
-#### ⚪ Getting Strated
+#### ⚪ Getting Started
 ```bash
 # prerequisites
 # curl
