@@ -91,9 +91,6 @@ check asset localhost:5984/_utils
 - - -
 
 ⚪ Description
-* 하이퍼레저 패브릭 네트워크를 로컬호스트 환경에서 구축
-* GO언어 기반 트랜잭션에 대한 CRUD기능을 가진 체인코드 작성
-* NodeJs의 express모듈을 통해 RestAPI를 구축하고 HTML을 통해 홈페이지를 만들어 CRUD 기능 테스트 수행
 * HyperledgerFabric
   * v1.x 사용, 3 org(each have 1 peer) 1 ca(cryptogen) 1 order
   * 로컬호스트 도커 가상 환경, 인증서들(msp)는 cryptogen으로 임의생성
