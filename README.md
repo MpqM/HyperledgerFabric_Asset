@@ -92,7 +92,7 @@ check asset localhost:5984/_utils
 
 #### ⚪ Description
 * #### HyperledgerFabric
-   * ###### v1.x 사용, 3 org(each have 1 peer) 1 ca(cryptogen) 1 order
+   * ##### v1.x 사용, 3 org(each have 1 peer) 1 ca(cryptogen) 1 order
    * #### 로컬호스트 도커 가상 환경, 인증서들(msp)는 cryptogen으로 임의생성
 * #### SmartContract
    * #### init, invoke
