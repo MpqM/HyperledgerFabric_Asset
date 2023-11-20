@@ -92,18 +92,18 @@ check asset localhost:5984/_utils
 
 #### ⚪ Description
 * #### HyperledgerFabric
-  * #### v1.x 사용, 3 org(each have 1 peer) 1 ca(cryptogen) 1 order
-  * #### 로컬호스트 도커 가상 환경, 인증서들(msp)는 cryptogen으로 임의생성
+   * ##### v1.x 사용, 3 org(each have 1 peer) 1 ca(cryptogen) 1 order
+   * ##### 로컬호스트 도커 가상 환경, 인증서들(msp)는 cryptogen으로 임의생성
 * #### SmartContract
-   * #### init, invoke
-   * #### set: 원장에 저장할 asset데이터 생성(asset 소유자 id, asset 값)
-   * #### get: 원장에 저장된 asset데이터 조회
-   * #### update: 원장에 저장된 asset 데이터를 수정
-   * #### delete: 원장에 저장된 asset 데이터를 삭제
-   * #### gethistory: asset 소유자 id별 트랜잭션 기록 조회
+   * ##### init, invoke
+   * ##### set: 원장에 저장할 asset데이터 생성(asset 소유자 id, asset 값)
+   * ##### get: 원장에 저장된 asset데이터 조회
+   * ##### update: 원장에 저장된 asset 데이터를 수정
+   * ##### delete: 원장에 저장된 asset 데이터를 삭제
+   * ##### gethistory: asset 소유자 id별 트랜잭션 기록 조회
 * #### Application
-  * #### Node.js express 사용, 하이퍼레저 패브릭 네트워크 연동
-  * #### html view, 스마트 컨트랙트 별 restapi
+   * ##### Node.js express 사용, 하이퍼레저 패브릭 네트워크 연동
+   * ##### html view, 스마트 컨트랙트 별 restapi
   
 - - -
 
