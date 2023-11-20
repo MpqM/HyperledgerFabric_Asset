@@ -1,8 +1,6 @@
 # SimpleAsset
 ⚪ About Project
-* NodeJS express, Javascript, HTML을 사용해 CRUD기능을 가진 HyperLedgerFabric DApp 구축
-* 단순한 asset 데이터에 대한 CRUD 기능을 가진 체인코드를 NodeJS express 기반 RESTAPI를 통해 테스트
-* HyperledgerFabric v1.x 사용, 3 org(each have 1 peer) 1 ca(cryptogen) 1 order
+* HyperLedgerFabric, NodeJS express, Javascript, HTML을 사용해 단순한 asset데이터에 대한 DApp 구축
 
 - - -
 
@@ -96,7 +94,20 @@ check asset localhost:5984/_utils
 * 하이퍼레저 패브릭 네트워크를 로컬호스트 환경에서 구축
 * GO언어 기반 트랜잭션에 대한 CRUD기능을 가진 체인코드 작성
 * NodeJs의 express모듈을 통해 RestAPI를 구축하고 HTML을 통해 홈페이지를 만들어 CRUD 기능 테스트 수행
-
+* HyperledgerFabric
+  * v1.x 사용, 3 org(each have 1 peer) 1 ca(cryptogen) 1 order
+  * 로컬호스트 도커 가상 환경, 인증서들(msp)는 cryptogen으로 임의생성
+* SmartContract
+   * init, invoke
+   * set: 원장에 저장할 asset데이터 생성(asset 소유자 id, asset 값)
+   * get: 원장에 저장된 asset데이터 조회
+   * update: 원장에 저장된 asset 데이터를 수정
+   * delete: 원장에 저장된 asset 데이터를 삭제
+   * gethistory: asset 소유자 id별 트랜잭션 기록 조회
+* application
+  * Node.js express 사용, 하이퍼레저 패브릭 네트워크 연동
+  * html view, 스마트 컨트랙트 별 restapi
+  
 - - -
 
 ⚪ Writer
