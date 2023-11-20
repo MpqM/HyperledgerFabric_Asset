@@ -2,7 +2,7 @@
 ⚪ About Project
 * NodeJS express, Javascript, HTML을 사용해 CRUD기능을 가진 HyperLedgerFabric DApp 구축
 * 단순한 asset 데이터에 대한 CRUD 기능을 가진 체인코드를 NodeJS express 기반 RESTAPI를 통해 테스트
-* HyperledgerFabric version ^1.x 사용, 3 org(each have 1 peer) 1 ca(cryptogen) 1 order
+* HyperledgerFabric v1.x 사용, 3 org(each have 1 peer) 1 ca(cryptogen) 1 order
 
 - - -
 
