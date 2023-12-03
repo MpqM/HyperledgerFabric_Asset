@@ -1,4 +1,4 @@
-# SimpleAsset
+# Asset
 #### ⚪ About Project
 * ##### HyperLedgerFabric, NodeJS express, Javascript, HTML을 사용해 단순한 asset데이터에 대한 DApp 구축
 
